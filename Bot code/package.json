@@ -1,0 +1,11 @@
+{
+  "name": "arduino",
+  "version": "1.0.0",
+  "description": "arduino",
+  "main": "bot.js",
+  "author": "R4r3s",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  }
+}
