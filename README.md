@@ -1,4 +1,4 @@
-# Discord_Bot_Arduino
+# Discord Bot to control LED
 A simple Discord Bot which can interact and control an LED.
 
 You need : node.js, visual studio, arduino IDE.
