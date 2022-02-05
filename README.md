@@ -14,7 +14,6 @@ You need : node.js, visual studio, arduino IDE.
 - and now run the C# code
 
 - Test on a server, the help command is a!help
--  
 On arduino
 - connect the pin 9 to plus LED with an 220 Ohm resistor
 
